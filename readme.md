@@ -34,7 +34,7 @@ Run `yo angular-fullstack`
 yo angular-fullstack
 ```
 
-**See the [Getting Started](http://angular-fullstack.github.io/generator-angular-fullstack/Getting_Started/Prerequisites.html) guide for more information.**
+**See the [Getting Started](https://angular-fullstack.github.io/get-started/) guide for more information.**
 
 ## Prerequisites
 
